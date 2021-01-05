@@ -13,8 +13,8 @@ react-native-gifted-chat -> for the UI
 
 > note: to be able to see the react-native-chat on Expo android app you need to change the connection from LAN to Tunnel.
 
-![](../assets/screenshot1.JPEG)
-![](../assets/screenshot2.jpg)
+(img src="https://github.com/FaezehYazdani/react-native-chat/blob/main/assets/screenshot1.JPEG")
+(img src="https://github.com/FaezehYazdani/react-native-chat/blob/main/assets/screenshot2.jpg")
 
 
 
